@@ -1,23 +1,23 @@
 {
   "id": "79397aa4-dd66-437e-bd2d-e3d28b2a416e",
   "version": "2.0",
-  "name": "aisha kasali ",
+  "name": "aishakasali ",
   "url": "https://www.facebook.com",
   "tests": [{
     "id": "84477a3c-7441-4956-b025-78fa17bbbf70",
     "name": "password not working",
     "commands": [{
-      "id": "7ba7f906-d861-4d96-9596-b8b54115f16e",
-      "comment": "",
-      "command": "open",
-      "target": "/",
-      "targets": [],
-      "value": ""
-    }, {
       "id": "5da990fe-e6d1-468e-9f07-6a0fcf9b3411",
       "comment": "",
       "command": "setWindowSize",
       "target": "1108x590",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7ba7f906-d861-4d96-9596-b8b54115f16e",
+      "comment": "",
+      "command": "open",
+      "target": "/",
       "targets": [],
       "value": ""
     }, {
